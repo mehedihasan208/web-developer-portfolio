@@ -111,3 +111,12 @@ nav a{
     .info-title{
         font-weight: normal;
     }
+    
+    /* it is part of three  */
+
+#what-i-do-discription{
+    padding: 30px 150px;
+}
+.skills-container{
+    display: flex;
+}
