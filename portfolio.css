@@ -157,3 +157,30 @@ nav a{
     margin-top: 50px;
     margin-bottom: 200px;
 }
+
+
+/* footer style of css */
+.many{
+    display: flex;
+    background: #FFF8F3;
+    margin: 60px;
+    gap: 300px;
+}
+.three{
+    width: 250px;
+    height: 40px;
+    border-radius:3px;
+}
+.five{
+    width: 250px;
+    height: 40px;
+    border-radius:3px;
+}
+.footer-one{
+    margin-left: 50px;
+}
+.eight{
+    color: #474747;
+    font-size: 15px;
+    font-weight: 40;
+}
