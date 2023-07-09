@@ -133,3 +133,17 @@ nav a{
     .skill-description{
         color:#757575;
     }
+    
+    /* resume style section */
+    .resume-column-title{
+        color: #474747;
+        font-weight: 700;
+        font-size: 30px;
+       }
+.resume-containar{
+    display: flex;
+    gap: 50px;
+}
+.resumi-item-description , .resumi-item-institute{
+    color: #757575;
+}
